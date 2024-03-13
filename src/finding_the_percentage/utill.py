@@ -1,5 +1,7 @@
+import logging
+logging.basicConfig(level=logging.INFO , format='%(message)s')
 def student_avg():
-    # Assuming you provide input data directly here
+
     n = int(input("Enter the number of students: "))
     student_marks = {}
     for _ in range(n):
@@ -11,8 +13,8 @@ def student_avg():
     for key, value in student_marks.items():
         if key == query_name:
             average_score = sum(value) / len(value)
-            break  # Exit the loop once we find the student's scores
-    print("{:.02f}".format(average_score))  # Print the average score
+            break
+    logging.info("{:.02f}".format(average_score))
 
 
 

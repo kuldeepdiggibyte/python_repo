@@ -6,4 +6,5 @@ def findrun():
     for i in range(n):
         if array[0] > array[i]:
             print(array[i])
+            return array[i]
             break
