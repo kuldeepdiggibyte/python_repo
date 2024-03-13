@@ -1,8 +1,11 @@
+
+import logging
+logging.basicConfig(level=logging.INFO , format='%(message)s')
 def mutate_string(string, position, character):
     l = list(string)
     l[position] = character
     ste = "".join(l)
-    print(ste)
+    logging.info(ste) #logging.info("{:.02f}".format(average_score))
 
     return ste
 
