@@ -15,6 +15,7 @@ def student_avg():
             average_score = sum(value) / len(value)
             break
     logging.info("{:.02f}".format(average_score))
+    return average_score
 
 
 
