@@ -7,7 +7,7 @@ I'm solving various programming problems, organizing them neatly into separate f
 <ul>
   <li><strong>utils.py:</strong> This file holds reusable utility functions tailored to solve specific programming challenges. These functions are designed to be modular and maintainable, covering tasks such as sorting algorithms, string manipulation, and mathematical operations.</li>
   
-  <li><strong>driver.py:</strong> This file serves as a demonstration of how the utility functions from utils.py are utilized. It includes sample inputs, function calls, and showcases the results. For example, if there's a function in utils.py for calculating factorials, driver.py would demonstrate how to call that function with different input values.</li>
+  <li><strong>driver.py:</strong> This file serves as a demonstration of how the utility functions from utils.py are utilized. It includes sample inputs, function calls, and showcases the results. </li>
 </ul>
 
 <strong><u>test</u></strong> folder housing files associated with each problem. These files contain test cases to verify the correctness of the utility functions, covering various scenarios, edge cases, and expected outcomes.
