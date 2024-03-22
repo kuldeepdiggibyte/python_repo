@@ -10,7 +10,7 @@ I'm solving various programming problems, organizing them neatly into separate f
   <li><strong>driver.py:</strong> This file serves as a demonstration of how the utility functions from utils.py are utilized. It includes sample inputs, function calls, and showcases the results. </li>
 </ul>
 
-<strong><u>test</u></strong> folder housing files associated with each problem. These files contain test cases to verify the correctness of the utility functions, covering various scenarios, edge cases, and expected outcomes.
+<strong><u>test:</u></strong> folder housing files associated with each problem. These files contain test cases to verify the correctness of the utility functions, covering various scenarios, edge cases, and expected outcomes.
 
 
 Here are some key highlights:
