@@ -1,10 +1,10 @@
 I'm solving various programming problems, organizing them neatly into separate folders. Each problem has its own folder containing two files:
 
-utils.py: This file holds reusable utility functions tailored to solve specific programming challenges. These functions are designed to be modular and maintainable, covering tasks such as sorting algorithms, string manipulation, and mathematical operations.
+<strong>utils.py:</strong> This file holds reusable utility functions tailored to solve specific programming challenges. These functions are designed to be modular and maintainable, covering tasks such as sorting algorithms, string manipulation, and mathematical operations.
 
-driver.py: This file serves as a demonstration of how the utility functions from utils.py are utilized. It includes sample inputs, function calls, and showcases the results. For example, if there's a function in utils.py for calculating factorials, driver.py would demonstrate how to call that function with different input values.
+<strong>driver.py:</strong> This file serves as a demonstration of how the utility functions from utils.py are utilized. It includes sample inputs, function calls, and showcases the results. For example, if there's a function in utils.py for calculating factorials, driver.py would demonstrate how to call that function with different input values.
 
-Additionally, there's a "test" folder housing files associated with each problem. These files contain test cases to verify the correctness of the utility functions, covering various scenarios, edge cases, and expected outcomes.
+<Strong> "test"</strong folder housing files associated with each problem. These files contain test cases to verify the correctness of the utility functions, covering various scenarios, edge cases, and expected outcomes.
 
 Here are some key highlights:
 
